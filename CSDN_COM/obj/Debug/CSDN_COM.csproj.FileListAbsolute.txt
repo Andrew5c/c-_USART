@@ -1,0 +1,9 @@
+E:\C_Sharp\CSDN_COM\CSDN_COM\bin\Debug\CSDN_COM.exe.config
+E:\C_Sharp\CSDN_COM\CSDN_COM\bin\Debug\CSDN_COM.exe
+E:\C_Sharp\CSDN_COM\CSDN_COM\bin\Debug\CSDN_COM.pdb
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.csprojResolveAssemblyReference.cache
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.Form1.resources
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.Properties.Resources.resources
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.csproj.GenerateResource.Cache
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.exe
+E:\C_Sharp\CSDN_COM\CSDN_COM\obj\Debug\CSDN_COM.pdb
