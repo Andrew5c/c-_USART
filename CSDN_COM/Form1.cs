@@ -239,7 +239,7 @@ namespace CSDN_COM
         {
             //方法2：按字节读取
             int num = serialPort1.BytesToRead;  //获取缓冲区字节数
-            byte[] received_buf = new byte[num];//声明一个字节型数组，大小是num个
+            byte[] received_buf = new byte[num];
 
             receieve_count += num;
             serialPort1.Read(received_buf, 0, num); //将缓冲区数据读取到received_buf
